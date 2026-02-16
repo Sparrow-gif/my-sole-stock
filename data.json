@@ -1,24 +1,33 @@
 [
   {
     "code": "SL001",
-    "name": "Classic Black EVA Sole",
+    "name": "Classic EVA Black Sole",
     "price": 180,
     "sizes": "6 → 11",
     "images": [
-      "img/picachu/sole1.jpg",
-      "img/picachu/sole2.jpg",
-      "img/picachu/sole3.jpg"
+      "img/SL001/1.jpg",
+      "img/SL001/2.jpg",
+      "img/SL001/3.jpg"
     ]
   },
   {
     "code": "SL002",
-    "name": "Sport TPR Cushion Sole",
+    "name": "Sports TPR Cushion",
     "price": 240,
     "sizes": "6 → 11",
     "images": [
-      "img/sole2-1.jpg",
-      "img/sole2-2.jpg",
-      "img/sole2-3.jpg"
+      "img/SL002/1.jpg",
+      "img/SL002/2.jpg"
+    ]
+  },
+  {
+    "code": "SL003",
+    "name": "PU Premium Air",
+    "price": 320,
+    "sizes": "6 → 11",
+    "images": [
+      "img/SL003/1.jpg",
+      "img/SL003/2.jpg"
     ]
   }
 ]
