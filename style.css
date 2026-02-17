@@ -38,7 +38,7 @@ border-radius:10px;
 object-fit: fill ;
 cursor:pointer;
 padding: 4px ;
-border: 2px solid #c40000 ;
+border: 0.7px solid #c40000 ;
 }
 
 .price{
@@ -58,11 +58,11 @@ font-size:12px;
 .modal-content{
 border-radius:16px;
 overflow:hidden;
-background:#000;
+background:#f7f8fa;
 }
 
 .modal-body{
-height:70vh;
+height:60vh;
 display:flex;
 align-items:center;
 justify-content:center;
